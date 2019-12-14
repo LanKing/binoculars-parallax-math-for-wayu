@@ -1,4 +1,5 @@
 ![](https://lanking.github.io/binoculars-parallax-math-for-wayu/logo.jpg)
+
 # Recently solved strange task for boosting up my inner mathematican 🤓
 
 > My strange friend asked me to create new crazy project for him:
