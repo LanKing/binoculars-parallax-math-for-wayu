@@ -29,6 +29,8 @@
   - Taking absolute value of negative variable converts it to positive). For example, if x = -5, (x + Math.abs(x)) will transformed to -5 + 5 = 0
   - Division to 2 is a correction for positive values: (5+5)\2 = 5
 
-**2. Create numerical sequence that describes position of scroll finish for each element relying on window height. As a result: numerical sequence with mostly negative values and positive values at the end (last containers in window are not scrolling out). Using hack from step 1 was removed positive values.**
+**2. Create numerical sequence that describes position of scroll finish for each element relying on window height.**
+- As a result: numerical sequence with mostly negative values and positive values at the end (last containers in window are not scrolling out). 
+- Using hack from step 1 was removed positive values.**
 
 **3. Scroll containers content to percent depending to difference between two steps.**
