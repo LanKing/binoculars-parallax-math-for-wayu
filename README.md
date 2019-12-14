@@ -1,12 +1,12 @@
-# I solved strange task for boosting up my inner mathematican 🤓
+![](https://lanking.github.io/binoculars-parallax-math-for-wayu/logo.jpg)
+
+# Recently solved strange task for boosting up my inner mathematican 🤓
 
 > My strange friend asked me to create new crazy project for him:
 > 
 > Imagine the web page with multiple horizontal containers each has text or image content. Content in this containers scrolls up while web page scrolled down and vice versa. My friend called that "binoculars effect" 😊
 > 
 > I don't know, why he needs this insane solution 🤷‍♂️, but it was funny to create it and train myself in math.
-
-![](https://lanking.github.io/binoculars-parallax-math-for-wayu/logo.png)
 
 ## Please, see this crazy demo: 
 - In browser window: https://lanking.github.io/binoculars-parallax-math-for-wayu/window.html
