@@ -1,6 +1,6 @@
 [Русская версия](https://github.com/LanKing/binoculars-parallax-math-for-wayu/blob/master/README-RUS.md "Русская версия")
 
-# Recently solved strange task for boosting up my inner mathematican 🤓
+# Had recently solved strange task for boosting up my inner mathematican 🤓
 
 > My strange friend asked me to create new crazy project for him:
 > 
