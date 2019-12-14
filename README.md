@@ -6,7 +6,7 @@
 > 
 > I don't know, why he needs this insane solution 🤷‍♂️, but it was funny to create it and train myself in math.
 
-![](https://lanking.github.io/logo.png)
+![](https://lanking.github.io/binoculars-parallax-math-for-wayu/logo.png)
 
 ## Please, see this crazy demo: 
 - In browser window: https://lanking.github.io/binoculars-parallax-math-for-wayu/window.html
