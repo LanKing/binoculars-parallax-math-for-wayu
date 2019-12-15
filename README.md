@@ -10,7 +10,7 @@
 > 
 > I didn't know, why he needed this insane solution 🤷‍♂️, but it was really funny to create it and train myself in math.
 
-## Please, see this crazy demo: 
+## Full demo: 
 - In the browser window: https://lanking.github.io/binoculars-parallax-math-for-wayu/window.html
 - In separate div: https://lanking.github.io/binoculars-parallax-math-for-wayu/div.html
 
