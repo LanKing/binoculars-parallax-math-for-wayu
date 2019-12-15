@@ -31,7 +31,7 @@
 - As a result top containers will have negative values. 
 - Then negative values must be removed — this is implemented by converting them to zeroes: (x + Math.abs(x)) / 2
 > Taking absolute value of negative variable converts it to positive). For example, if x = -5, (x + Math.abs(x)) will transformed to -5 + 5 = 0
-> Division to 2 is a correction for positive values: (5+5)\2 = 5
+> Division to 2 is a correction for positive values: (5 + 5) / 2 = 5
 
 **2. Create a numerical sequence that describes the position of scroll finish for each element relying on window height.**
 - As a result: numerical sequence with mostly negative values and positive values at the end (last containers in the window are not scrolling out). 
