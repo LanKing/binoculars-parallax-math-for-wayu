@@ -1,12 +1,12 @@
 [Русская версия](https://github.com/LanKing/binoculars-parallax-math-for-wayu/blob/master/README-RUS.md "Русская версия")
 
-# Had recently solved strange task for boosting up my inner mathematican 🤓
+# I had recently solved a strange task for boosting up my inner mathematican 🤓
 
-> My strange friend asked me to create new crazy project for him:
+> My strange friend asked me to create a new crazy project for him:
 > 
-> Imagine the web page with multiple horizontal containers each has text or image content. Content height is bigger than container height, so user see only part of content. Content in containers scrolls up while web page scrolled down and vice versa. My friend called that "binoculars effect" 😊
+> Imagine the web page with multiple horizontal containers each having text or image content. Content height is bigger than the container height, so the user only see a part of the content. The content in the containers scrolls up while the web page is scrolled down and vice versa. My friend called that the "binoculars effect". 😊
 > 
-> I don't know, why he needs this insane solution 🤷‍♂️, but it was really funny to create it and train myself in math.
+> I didn't know, why he needed this insane solution 🤷‍♂️, but it was really funny to create it and train myself in math.
 
 ## Please, see this crazy demo: 
 - In browser window: https://lanking.github.io/binoculars-parallax-math-for-wayu/window.html
