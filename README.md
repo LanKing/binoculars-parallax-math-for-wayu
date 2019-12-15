@@ -6,7 +6,7 @@
 >
 > **My strange friend asked me to create a new crazy project for him:**
 > 
-> Imagine the web page with multiple horizontal containers each having text or image content. Content height is bigger than the container height, so the user only sees a part of the content. The content in the containers scrolls up while the web page is scrolled down and vice versa. My friend called that the "binoculars effect". 😊
+> The web page has with multiple horizontal containers each having text or image content. Height of content is bigger than the container height, so the user only sees a part of the content. The content in the containers scrolls up while the web page is scrolled down and vice versa. My friend called that the "binoculars effect". 😊
 > 
 > I didn't know, why he needed this insane solution 🤷‍♂️, but it was really funny to create it and train myself in math.
 
