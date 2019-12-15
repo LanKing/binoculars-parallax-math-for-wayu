@@ -1,4 +1,4 @@
-[English](https://github.com/LanKing/binoculars-parallax-math-for-wayu/blob/master/README.md "English")
+[English version](https://github.com/LanKing/binoculars-parallax-math-for-wayu/blob/master/README.md "English")
 
 # Решил забавную задачку с целью тренировки своего внутреннего математика 🤓
 
