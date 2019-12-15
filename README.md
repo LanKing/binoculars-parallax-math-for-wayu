@@ -25,13 +25,14 @@
 
 ## Math magic explained step by step: 💫
 
-**1. Create numerical sequence, that describes occurence position of each container relying on browser window height.** 
-As a result top containers will have negative values. 
-Then negative values must be removed — this is implemented by converting them to zeroes: (x + Math.abs(x)) / 2
+**1. Create numerical sequence, that describes occurence position of each container relying on browser window height.**
+- As a result top containers will have negative values. 
+- Then negative values must be removed — this is implemented by converting them to zeroes: (x + Math.abs(x)) / 2
 > Taking absolute value of negative variable converts it to positive). For example, if x = -5, (x + Math.abs(x)) will transformed to -5 + 5 = 0
 > Division to 2 is a correction for positive values: (5+5)\2 = 5
 
 **2. Create numerical sequence that describes position of scroll finish for each element relying on window height.**
-As a result: numerical sequence with mostly negative values and positive values at the end (last containers in window are not scrolling out). Using hack from step 1 positive values was removed.
+- As a result: numerical sequence with mostly negative values and positive values at the end (last containers in window are not scrolling out). 
+- Using hack from step 1 positive values was removed.
 
 **3. Scroll containers content to percent depending to difference between two steps.**
