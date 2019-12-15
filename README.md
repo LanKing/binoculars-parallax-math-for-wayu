@@ -2,7 +2,7 @@
 
 # I had recently solved a strange task for boosting up my inner mathematician 🤓
 
-![](https://lanking.github.io/binoculars-parallax-math-for-wayu/demo4.gif)
+> ![](https://lanking.github.io/binoculars-parallax-math-for-wayu/demo4.gif)
 
 > My strange friend asked me to create a new crazy project for him:
 > 
