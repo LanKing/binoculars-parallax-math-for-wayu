@@ -16,7 +16,7 @@
 1. Solve this task with pure math (Don't use logical conditions in the main math model. Of course, some logic used for configuration and objects initialization, but the main model is hardcore pure math 🤘).
 
 2. Users must see every pixel of content in each container during the scrolling web page from start to end. The content scroll must be started when its first pixel was shown during page scroll and also it must stop scrolling when the last pixel was scrolled out. 
-  > It doesn't matter if the current area is located at the top, at the middle or at the bottom of the page. For example: for areas located at the first screen content started scrolling immediately. For areas on the second screen, content is not scrolling until the web page will be scrolled enough to see the first pixel of the container. Also for the last areas of the page content must stop scrolling only when page scrolled completely. So, each area has a different scroll tempo.
+  > It doesn't matter if the current area is located at the top, in the middle or at the bottom of the page. For example: for areas located at the first screen content started scrolling immediately. For areas on the second screen, content is not scrolling until the web page will be scrolled enough to see the first pixel of the container. Also for the last areas of the page content must stop scrolling only when page scrolled completely. So, each area has a different scroll tempo.
 
 3. Minimize browser load by choosing a good algorithm (no dummy operations). As a result: I got a simple program code.
 
