@@ -12,7 +12,7 @@
 - In browser window: https://lanking.github.io/binoculars-parallax-math-for-wayu/window.html
 - In separate div: https://lanking.github.io/binoculars-parallax-math-for-wayu/div.html
 
-## Challenge points that I choosed for myself:
+## Challenges I choosed for myself:
 1. Solve this task with pure math (Don't use logical conditions in main math model. Of course, some logic used for configuration and objects initialization, but main model is a hardcore pure math 🤘).
 
 2. User must see every pixel of content in each cntainer during scrolling web page from start to end. Content scroll must started when its first pixel was shown during page scroll and also it must stop scrolling when the last pixel was scrolled out. 
