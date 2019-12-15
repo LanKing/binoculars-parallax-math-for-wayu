@@ -4,7 +4,7 @@
 
 > ![](https://lanking.github.io/binoculars-parallax-math-for-wayu/demo4.gif)
 >
-> My strange friend asked me to create a new crazy project for him:
+> **My strange friend asked me to create a new crazy project for him:**
 > 
 > Imagine the web page with multiple horizontal containers each having text or image content. Content height is bigger than the container height, so the user only sees a part of the content. The content in the containers scrolls up while the web page is scrolled down and vice versa. My friend called that the "binoculars effect". 😊
 > 
